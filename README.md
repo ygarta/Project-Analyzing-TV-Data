@@ -1,5 +1,2 @@
-# Project-Analyzing-TV-Data
-TV, halftime shows, and the Big Game
-
-## Project Description
-For this project we use a combination of data manipulation and visualization to explore television data. We look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows.
+# Project Analyzing TV Data
+Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom The Office!
